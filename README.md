@@ -6,6 +6,7 @@ Mouselock is an application to lock the mouse to the center of the main screen. 
   - Lock the mouse to the center of the main screen
   - Change the root position of the lock
   - Change the LOCK/RELEASE button of the lock
+  - When holding right click you can move your mouse freely but as soon as you release the right mouse button the mouse returns to its old position
 
 # Additions
 There are many more things i want to add such as the ability that when you right click that the mouse goes back to the root position of the initial right click position for third person cameras!
