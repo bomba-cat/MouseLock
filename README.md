@@ -1,6 +1,6 @@
 # MouseLock made by xk_rl
 
-## Mouselock is an application to lock the mouse to the center of the main screen. With a simple UI you can change things such as the LOCK/RELEASE button or the lock ROOT or things like a failsafe.
+Mouselock is an application to lock the mouse to the center of the main screen. With a simple UI you can change things such as the LOCK/RELEASE button or the lock ROOT or things like a failsafe.
 
 # Features as mentioned before
   - Lock the mouse to the center of the main screen
