@@ -19,6 +19,7 @@ The next update will include following:
   - An option to swith from old right click lock now the new one
   - JSON FILES!! You can finally store your settings without having to redo everything
   - Mouse Lock update interval, you can basically now choose how fast your mouse refreshes every second
+  - A better Code readability, The current code is very unreadable and hard to understand but thats also part of the fact that i made this in 1 day
 
 I will try my best to bring these new features as fast as possible! If i ever see that one would be impossible then i would delete that item from the list and implement it in another update.v
 
